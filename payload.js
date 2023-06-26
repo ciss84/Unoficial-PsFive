@@ -36,8 +36,8 @@ function load_exploit_done(){
         setTimeout(loader('platinumhen_2.6.5.bin'), 100)
         setTimeout(loader2('PlatinumHen-U v2.6.5'), 100) 
     }else if(secondscheck == "true") {
-        setTimeout(loader('goldhen_2.4b13.bin'), 100)
-        setTimeout(loader2('GholdHen v2.4b13'), 100)              
+        setTimeout(loader('goldhen_2.4b14.bin'), 100)
+        setTimeout(loader2('GholdHen v2.4b14'), 100)              
     }else {
         document.getElementById('notify').style.display = ''
         document.getElementById('notify').className = 'notification'
